@@ -36,5 +36,6 @@
   }
   ```
 - open index.html with a browser for the generated codes and outputs
+- the code for tables with colspan and rowspans are displayed at bottom of each table from data.json which can be copied normally by selecting the text an ctrl+c
 
 
