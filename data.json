@@ -1,0 +1,21 @@
+{
+  "semester 7": {
+    "monday": ["r programming-2", "machine learning-2", "iot-2", "sports"],
+    "tuesday": [
+      "iot-2",
+      "machine learning-2",
+      "environmental science-2",
+      "sports"
+    ],
+    "wednesday": ["", "web technologies lab-3", "oe sct-2", "sports"],
+    "thursday": [
+      "environmental science",
+      "r programming-2",
+      "",
+      "web technologies-2",
+      "sports"
+    ],
+    "friday": ["oe sct-2", "web technologies-2", "library-3"],
+    "saturday": ["project 1-4", "project 1-3"]
+  }
+}
